@@ -1,0 +1,13 @@
+.App{
+  margin: 10px 30px;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font: 16px Arial;  
+}
+
+/*the container must be positioned relative:*/
+
